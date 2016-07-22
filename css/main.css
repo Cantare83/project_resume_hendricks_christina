@@ -1,0 +1,14 @@
+body {
+    background-color: #a8ff8d;
+}
+
+h1,
+h3,
+h4 {
+    font-family: 'Lobster', cursive;
+}
+
+h2,
+li {
+    font-family: 'Raleway', sans-serif;
+}
