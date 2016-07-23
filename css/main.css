@@ -1,3 +1,13 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
 body {
     background-color: #1ca688;
     background-image: linear-gradient(#1ca688, #ffffff);
@@ -19,6 +29,8 @@ h4 {
 
 h1 {
     font-size: 3em;
+    text-align: center;
+    margin-bottom: 0;
 }
 
 h3 {
@@ -33,6 +45,11 @@ h2,
 li {
     font-family: 'Raleway', sans-serif;
     color: #2e2522;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 0;
 }
 
 img {
