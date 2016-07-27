@@ -45,23 +45,11 @@ h4 {
     font-size: 1.5em;
 }
 
-.innerContact {
-    margin-left: 30%;
-}
-
 h2,
 li {
     font-family: 'Raleway', sans-serif;
     color: #2e2522;
     line-height: 1.5;
-}
-
-ul {
-    margin-left: 20%;
-}
-
-.innerSkills {
-    margin-left: 40%;
 }
 
 .titles {
@@ -74,6 +62,23 @@ h2 {
     text-align: center;
 }
 
+@media (min-width: 700px) {
+    aside {
+        float: left;
+        width: 40%;
+    }
+
+    section {
+        float: right;
+        width: 55%;
+    }
+
+    footer {
+        clear: both;
+    }
+
+}
+
 img {
     display: block;
     margin: auto;
@@ -83,4 +88,9 @@ img {
 aside,
 article {
     border-bottom: thick dotted #f27e55;
+}
+
+footer {
+    text-align: center;
+    padding-top: 0.5em;
 }
