@@ -6,4 +6,12 @@ $(document).ready(function () {
         $('h1').addClass('name');
     });
 
+//jQuery plugin to make the sub heading rotate
+
+    $('.rotate').textrotator({
+        animation: 'dissolve',
+        separator: ',',
+        speed: 2000
+    });
+
 });
