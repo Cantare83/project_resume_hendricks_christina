@@ -21,6 +21,10 @@ body {
     padding: 2em;
 }
 
+.name {
+    color: #f27e55;
+}
+
 h1,
 h3,
 h4 {
