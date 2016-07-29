@@ -14,4 +14,5 @@ $(document).ready(function () {
         speed: 2000
     });
 
+    //My last jQuery plugin needs no additional jQuery code here
 });

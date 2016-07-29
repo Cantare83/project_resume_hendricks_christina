@@ -64,6 +64,30 @@ h2 {
     text-align: center;
 }
 
+.dice-menu {
+    padding: 0;
+    display: block;
+    position: fixed;
+    top: 25%;
+    right: 0;
+}
+
+.dice-menu li {
+    display: block;
+    border-width: 0;
+    border-radius: 5px;
+    padding: 15px;
+    overflow: hidden;
+    background-color: #f27e55;
+    color: #eeeeee;
+    opacity: 0;
+    cursor: pointer;
+}
+
+.dice-menu li:first-child {
+    opacity: 0.8;
+}
+
 @media (min-width: 700px) {
     aside {
         float: left;
