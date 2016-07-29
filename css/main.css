@@ -113,7 +113,7 @@ img {
 
 aside,
 article {
-    border-bottom: thick dotted #f27e55;
+    border-bottom: 2px dotted #f27e55;
 }
 
 footer {
