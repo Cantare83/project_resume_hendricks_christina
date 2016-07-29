@@ -1,7 +1,8 @@
 
 #Resume Project
 
-[GitHub Link]()
+[GitHub Link](https://github.com/Cantare83/project_resume_hendricks_christina/commits/master)
+[Project Link](http://www.chrisihendricks.net/resume/)
 
 ##Links
 * [Google Fonts](https://fonts.google.com/?selection.family=Lily+Script+One|Raleway&query=rale): I got my web fonts from google fonts.
